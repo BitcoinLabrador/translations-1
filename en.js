@@ -266,7 +266,7 @@ export default {
   creatingbitcoinwallet: 'creating Bitcoin wallet',
   exceeds_quota:
     'You have reached your daily limit, please cancel some open orders or wait 24 hours',
-  invalid_bank_account: 'Invalid bank account, please provide a valid IBAN',
+  invalid_bank_account: 'We don’t know this IBAN, please enter one you’ve used with Relai before',
   invalid_country_code: 'Your country code is invalid',
   invalid_crypto_address: 'Your BTC wallet address is invalid',
   invalid_bank_account_owner_address:
